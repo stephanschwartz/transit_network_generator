@@ -52,12 +52,12 @@ Parameters allow to boost the traffic starting at leave nodes.
 
 Two-level Voronoi:
 
-![2lvlVoronoi](https://github.com/stephanschwartz/transit_network_generator/doc/expl_two_level_voronoi.png
+![2lvlVoronoi](https://github.com/stephanschwartz/transit_network_generator/blob/main/doc/expl_two_level_voronoi.png
 "Two-level Voronoi")
 
 Tree:
 
-![tree](https://github.com/stephanschwartz/transit_network_generator/doc/expl_random_tree.png)
+![tree](https://github.com/stephanschwartz/transit_network_generator/blob/main/doc/expl_random_tree.png)
 
 
 ## Virtual Environment
